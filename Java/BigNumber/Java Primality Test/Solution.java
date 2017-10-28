@@ -3,7 +3,7 @@ import java.math.BigInteger;
 
 /*
 
-I use isProbablePrime() with certainty = 10 to achieve 99.9% accuracy. 
+Use isProbablePrime() with certainty = 10 to achieve 99.9% accuracy. 
 However, even certainty = 1 (which achieves 50% accuracy) is enough to 
 pass the HackerRank test cases.
 

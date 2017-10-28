@@ -1,7 +1,3 @@
-//     Author: Rodney Shaghoulian
-//     Github: github.com/rshaghoulian
-// HackerRank: hackerrank.com/rshaghoulian
-
 import java.math.BigDecimal;
 import java.util.*;
 
